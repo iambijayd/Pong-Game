@@ -5,6 +5,7 @@ It is a simple human vs AI pong game where the ball speed gradually increases wh
 
 
 ## Demo
+![](https://github.com/iambijayd/Pong-Game/blob/main/Demo/pong.gif)
 
 ## Contributing
 
